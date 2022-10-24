@@ -1,0 +1,7 @@
+hungryman:
+  searchEvent:
+    period: 6000
+    
+  crawler:
+    service:
+      name: hungryman-crawler 
